@@ -102,6 +102,15 @@ h1, h2, h3, p {
 	font-size: medium;
 	margin-top: 29px;
 }
+.container article .latest {
+	font-size: large;
+	margin-top: 38px;
+}
+.container .after.carosel {
+	margin-top: 32px;
+}
+
+
 .thumbnail .caption .btn-group {
 	position: absolute;
 	left: 40%;
