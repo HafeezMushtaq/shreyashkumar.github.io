@@ -3,12 +3,12 @@ div aside img {
 	float: left;
 	-webkit-box-shadow: 4px 0px 23px -2px;
 	box-shadow: 4px 0px 23px -2px;
-	margin-right: 35px;
-	margin-top: 36px;
-	margin-bottom: 19px;
+	margin-right: 42px;
+	margin-top: 46px;
+	margin-bottom: 31px;
 	width: 222.4px;
 	height: 364px;
-	margin-left: 17px;
+	margin-left: 45px;
 }
 div aside .about {
 	text-align: left;
@@ -16,7 +16,7 @@ div aside .about {
 	margin-top: 32px;
 	border-top-width: medium;
 	background-color: #FFFFFF;
-	padding-right: 15px;
+	padding-right: 38px;
 	padding-top: 49px;
 	padding-bottom: 49px;
 	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(198,198,198,1.00) 100%);
