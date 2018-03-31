@@ -1,11 +1,14 @@
 @charset "utf-8";
 div aside img {
-	margin-left: 59px;
 	float: left;
 	-webkit-box-shadow: 4px 0px 23px -2px;
 	box-shadow: 4px 0px 23px -2px;
-	margin-right: 43px;
+	margin-right: 35px;
 	margin-top: 36px;
+	margin-bottom: 19px;
+	width: 222.4px;
+	height: 364px;
+	margin-left: 17px;
 }
 div aside .about {
 	text-align: left;
@@ -13,12 +16,12 @@ div aside .about {
 	margin-top: 32px;
 	border-top-width: medium;
 	background-color: #FFFFFF;
-	padding-right: 41px;
+	padding-right: 15px;
 	padding-top: 49px;
 	padding-bottom: 49px;
 	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(198,198,198,1.00) 100%);
 	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(198,198,198,1.00) 100%);
 	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(198,198,198,1.00) 100%);
 	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(198,198,198,1.00) 100.00%);
-	padding-left: 41px;
+	padding-left: 17px;
 }
