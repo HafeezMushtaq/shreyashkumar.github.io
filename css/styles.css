@@ -170,3 +170,6 @@ h1, h2, h3, p {
 	background-image: -o-linear-gradient(317deg,rgba(189,189,189,1.00) 0%,rgba(134,134,134,1.00) 100%);
 	background-image: linear-gradient(133deg,rgba(189,189,189,1.00) 0%,rgba(134,134,134,1.00) 100%);
 }
+.thumbnail .caption .JADdes {
+	color: #636363;
+}
